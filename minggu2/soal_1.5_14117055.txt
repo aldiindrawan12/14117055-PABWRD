@@ -1,0 +1,17 @@
+1. Lakukanlah perubahan pada kode HTML sesuai keinginan anda, 
+Pernakah terjadi error ketika adakesalahan kode? 
+jawab : ada ,contoh tag <img> jika ada kita copas dari modul gambar 
+	tidak ada karena file gambar tidak ada 
+	di directory tempat kita menyimpan file html
+
+2.  Cobalah ubah nilai meta refresh 
+	<meta HTTP-EQUIV="REFRESH" content="5;url=http://google.co.id"> 
+	apa yang terjadi?, maka jelaskan apa diantara kegunaan meta dokumen? 
+jawab : halaman web akan otomatis berpindah ke alamat web google.co.id
+
+3.  Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+jawab : thead = membuat nama kolom 
+	tbody = tempat membuat table 
+	tr    = membuat row
+	th    = membuat nama header atau nama kolom
+	td    = membuat data kolom
