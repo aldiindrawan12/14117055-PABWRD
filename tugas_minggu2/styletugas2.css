@@ -1,0 +1,16 @@
+body{
+	background-image: url(1.jpg);
+}
+h2{
+	padding-bottom: 20px;
+}
+
+.container{
+	position: absolute;
+	top: 500px;
+	padding: 15px;
+	border-radius: 10px;
+	opacity: .5;
+	width: 450px;
+	background-color:grey;
+}
