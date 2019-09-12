@@ -14,3 +14,12 @@ h2{
 	width: 450px;
 	background-color:grey;
 }
+
+.gradien {
+	background: blue: 
+	width:500px;
+	height: 250px;
+	margin:auto;
+	background:-webkit-linear-gradient(black,blue);
+
+}
