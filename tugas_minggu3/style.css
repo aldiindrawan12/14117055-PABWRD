@@ -1,0 +1,87 @@
+.container{
+	width: 1000px;
+	margin: auto;
+	background-color: grey;
+	border-radius: 10px;
+}
+
+
+header{
+	padding:10px; 
+}
+header img{
+	width: 200px;
+	height: 200px;
+}
+header ul{
+	float: right;
+	margin-right: 20px;
+}
+header ul li{
+	padding-top: 25px;
+	display: inline-block;
+	margin-left: 20px;
+}
+header h1{
+	text-align:center;
+
+}
+header ul li a{
+	text-decoration: none;
+	color: black;
+}
+header ul li a:hover{
+	background: salmon;
+	color: white;
+	padding:5px;
+	border-radius: 20px; 
+}
+
+.jadwal, .pinjam{
+	padding: 20px;
+	margin-top: 10px;
+	margin:auto;
+	width: 960px;
+	background-color: grey;
+	border-radius: 10px;
+}
+
+.jadwal table{
+	margin-top: 10px;
+	width: 750px;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	height: 30px;
+	line-height: 30px;
+	text-align:center;
+	border-radius: 10px;
+	width: 900px;
+	margin:auto;
+}
+.pinjam .bagian{
+	width: 600px;
+}
+
+.pinjam .bagian ul li{
+	display: inline-block;
+
+}
+
+.pinjam .bagian input{
+	float: right;
+	margin-bottom: 10px;
+}
+
+.pinjam .bagian label{
+	float: left;
+	width: 200px;
+	margin-bottom: 10px;
+}
+
+.pinjam .bagian button[type="reset"]{
+	margin-left: 200px;
+	float: right;
+}
